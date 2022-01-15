@@ -12,8 +12,8 @@
 ## I'm a Husband, Father, Developer, and a Tech Lover!!
 
 - 🌱 I’m currently learning React
-- 🌱 I’m currently working on a freelancer project using python
-- 🥅 2021/2022 Goals: I aim to be a full-stack developer, but now I'm focusing on frontend
+- 🌱 I’m currently working on a freelance project using python
+- 🥅 2022 Goal: I aim to be a full-stack developer
 
 ### Connect with me:
 
