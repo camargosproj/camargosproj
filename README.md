@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning React
 - 🌱 I’m currently working on a freelance project using python
-- 🥅 2022 Goal: I aim to be a full-stack developer
+- 🥅 2022 Goal: I aim to be a full-stack developer for web scraping
 
 ### Connect with me:
 
