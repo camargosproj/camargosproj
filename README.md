@@ -11,8 +11,8 @@
 
 ## I'm a Husband, Father, Developer, and a Tech Lover!!
 
-- 🌱 I’m currently learning React
-- 🌱 I’m currently working on a freelance project using python
+- 🌱 I’m currently learning React, 
+- 🌱 I’m currently working as a backend developer
 
 ### Connect with me:
 
