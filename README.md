@@ -12,10 +12,12 @@ I'm a code explorer, a coffee aficionado, and a story collector. Every day, I si
 
 I'd love to connect with you. Feel free to reach out through:
 
+- Let's chat about code, life, or anything in between!
+
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" />][linkedin]
 [<img align="left" alt="Instagram" width="40px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />][instagram]
 
-Let's chat about code, life, or anything in between!
+</br>
 
 ## My Toolbox
 
